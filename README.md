@@ -14,6 +14,8 @@ Meu portifólio de projetos
 
 ## Projetos:
 
+* [Análise de Dados do Airbnb - Amsterdã](https://github.com/LeonardoSantoss944/Analise_dos_Dados_do_Airbnb-Amsterda/blob/main/Dados_Amsterd%C3%A3_Airbnb.ipynb)
+
 
 
 
