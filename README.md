@@ -2,7 +2,7 @@
 Meu portifólio de projetos
 
 <p align="center">
-  <img src="banner1.png" >
+  <img src="banner.png" >
 </p>
 
 # Leonardo Santos
